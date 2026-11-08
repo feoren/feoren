@@ -63,7 +63,16 @@ integration and AI APIs · n8n workflow automation · prompt engineering
 
 ### ✍️ Off the keyboard
 
-When I'm not programming, I write. My debut *Circkool* is the first volume of a dark fantasy series.
+When I'm not programming, I write. My debut novel opens a dark fantasy series and is out now as
+eBook and paperback:
+
+| Edition | Kindle | Paperback |
+| ------- | ------ | --------- |
+| 🇬🇧 **Circkool: Place Without Shadows** (English) | [Amazon](https://www.amazon.com/dp/B0HLMQHCH2) | [Amazon](https://www.amazon.com/dp/B0HNF2Z3LJ) |
+| 🇩🇪 **Circkool: Ort ohne Schatten** (German) | [Amazon](https://www.amazon.de/dp/B0HL7D79NN) | [Amazon](https://www.amazon.de/dp/B0HLJ1GCCD) |
+
+More about the series, a free reading sample and the newsletter at
+[circkool.com](https://www.circkool.com).
 
 ---
 
