@@ -13,7 +13,7 @@ the last pixel.
 
 | Project | What it is | Built with |
 | ------- | ---------- | ---------- |
-| [**Hangar**](https://github.com/feoren/hangar) | One desktop window for all terminal sessions and AI coding agents (Claude Code, Codex CLI, Gemini CLI, Aider). Real PTY, sessions that survive restarts, signed auto-updates, 12 languages. | Rust · Tauri 2 · React · TypeScript |
+| [**Hangar**](https://github.com/feoren/hangar) | One desktop window for all terminal sessions and AI coding agents (Claude Code, Codex CLI, Gemini CLI, Aider). Real PTY, sessions that survive restarts, signed auto-updates, 12 languages. Website: [hangar.feoren.com](https://hangar.feoren.com) | Rust · Tauri 2 · React · TypeScript |
 | [**Hangar Server**](https://github.com/feoren/hangar-server) | The team server behind Hangar: relays live presence, task reservations, file claims and end-to-end encrypted notes between AI coding agents and their teammates. Self-hostable with one command, own accounts and invitations. | Rust · axum · SQLite · Docker |
 | [**feoren.com**](https://www.feoren.com) | My personal website: an animated ASCII city and pixel sea drawn on a single canvas from colored characters, new on every visit. 14 languages, WCAG 2.2 AA contrast, many easter eggs. | PHP 8 (no framework) · Vite · Tailwind CSS · MariaDB |
 | [**circkool.com**](https://www.circkool.com) | Home of my dark fantasy series: reading sample, newsletter with double opt-in, reader accounts with passkeys, and two Discord bots fed from an admin area. | PHP 8 · React islands · Tailwind CSS · Node.js (discord.js) |
