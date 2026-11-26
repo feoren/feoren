@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <title>Hangar Note</title>
+  <rect width="256" height="256" rx="56" fill="#141a24" />
+  <path d="M40 72L80 58L176 154V72L216 58V200H176L80 104V200H40Z" fill="#ffb547" fill-rule="evenodd" />
+  <path d="M104 184H144V200H104Z" fill="#f2e3c6" />
+</svg>

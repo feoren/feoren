@@ -9,18 +9,30 @@ the last pixel.
 
 ---
 
-### 🛠️ What I build
+### 🛩️ The Hangar family
 
-| Project | What it is | Built with |
+Open-source desktop tools for working with AI coding agents, built to fit together.
+Website: [hangar.feoren.com](https://hangar.feoren.com)
+
+| | Project | What it is | Built with |
+| :-: | ------- | ---------- | ---------- |
+| <a href="https://github.com/feoren/hangar"><img src="assets/logos/hangar.svg" width="56" height="56" alt="Hangar logo"></a> | [**Hangar**](https://github.com/feoren/hangar)<br><sub>✅ Available</sub> | One desktop window for all terminal sessions and AI coding agents (Claude Code, Codex CLI, Gemini CLI, Aider). Real PTY, sessions that survive restarts, signed auto-updates, 12 languages. | Rust · Tauri 2 · React · TypeScript |
+| <a href="https://github.com/feoren/hangar-server"><img src="assets/logos/hangar-server.svg" width="56" height="56" alt="Hangar Server logo"></a> | [**Hangar Server**](https://github.com/feoren/hangar-server)<br><sub>✅ Available</sub> | The team server behind Hangar: relays live presence, task reservations, file claims and end-to-end encrypted notes between AI coding agents and their teammates. Self-hostable with one command. | Rust · axum · SQLite · Docker |
+| <a href="https://github.com/feoren/hangar-note"><img src="assets/logos/hangar-note.svg" width="56" height="56" alt="Hangar Note logo"></a> | [**Hangar Note**](https://github.com/feoren/hangar-note)<br><sub>🚧 In progress</sub> | Sticky notes on the desktop, next to Hangar: one window per note, live-styled Markdown, color categories and a tray icon. Takes over Hangar's private and team notes. | Rust · Tauri 2 · React · TypeScript · CodeMirror 6 |
+| <a href="https://github.com/feoren/hangar-drive"><img src="assets/logos/hangar-drive.svg" width="56" height="56" alt="Hangar Drive logo"></a> | [**Hangar Drive**](https://github.com/feoren/hangar-drive)<br><sub>🚧 In progress</sub> | End-to-end encrypted file sync on your own server: folders stay in sync across all your computers, files are encrypted on the device, and earlier versions are kept. | Rust · Tauri 2 · axum · React · TypeScript · Docker |
+
+---
+
+### 🌐 Websites
+
+Built and run by me, from the server to the last pixel.
+
+| Website | What it is | Built with |
 | ------- | ---------- | ---------- |
-| [**Hangar**](https://github.com/feoren/hangar) | One desktop window for all terminal sessions and AI coding agents (Claude Code, Codex CLI, Gemini CLI, Aider). Real PTY, sessions that survive restarts, signed auto-updates, 12 languages. Website: [hangar.feoren.com](https://hangar.feoren.com) | Rust · Tauri 2 · React · TypeScript |
-| [**Hangar Server**](https://github.com/feoren/hangar-server) | The team server behind Hangar: relays live presence, task reservations, file claims and end-to-end encrypted notes between AI coding agents and their teammates. Self-hostable with one command, own accounts and invitations. | Rust · axum · SQLite · Docker |
-| [**Hangar Note**](https://github.com/feoren/hangar-note) | *In progress.* Sticky notes on the desktop, next to Hangar: one frameless window per note, live-styled Markdown, color categories, a tray icon and an "All notes" window. Takes over Hangar's private and team notes. | Rust · Tauri 2 · React · TypeScript · CodeMirror 6 |
-| [**Hangar Drive**](https://github.com/feoren/hangar-drive) | *In progress.* End-to-end encrypted file sync on your own server: folders stay in sync across all your computers, files are encrypted on the device, and a single Docker container distributes changes and keeps earlier versions. | Rust · Tauri 2 · axum · React · TypeScript · Docker |
-| [**feoren.com**](https://www.feoren.com) | My personal website: an animated ASCII city and pixel sea drawn on a single canvas from colored characters, new on every visit. 14 languages, WCAG 2.2 AA contrast, many easter eggs. | PHP 8 (no framework) · Vite · Tailwind CSS · MariaDB |
-| [**circkool.com**](https://www.circkool.com) | Home of my dark fantasy series: reading sample, newsletter with double opt-in, reader accounts with passkeys, and two Discord bots fed from an admin area. | PHP 8 · React islands · Tailwind CSS · Node.js (discord.js) |
-| [**myduell.com**](https://www.myduell.com) | *In progress.* A portal for football prediction leagues: scoring, rankings, knockout and league phases, Stripe payments and web push built in-house. Passkeys, OAuth with PKCE and TOTP. | PHP 8 · Vite · Tailwind CSS · MariaDB · Playwright |
-| [**lottique.com**](https://www.lottique.com) | *In progress.* Lottery analytics for Lotto 6aus49 and Eurojackpot: automatic draw import, statistics and charts rendered on the server without a chart library. | PHP 8 · Bootstrap 5 · MariaDB |
+| 🏙️ [**feoren.com**](https://www.feoren.com)<br><sub>✅ Live</sub> | My personal website: an animated ASCII city and pixel sea drawn on a single canvas from colored characters, new on every visit. 14 languages, many easter eggs. | PHP 8 (no framework) · Vite · Tailwind CSS · MariaDB |
+| 📖 [**circkool.com**](https://www.circkool.com)<br><sub>✅ Live</sub> | Home of my dark fantasy series: reading sample, newsletter, reader accounts with passkeys, and two Discord bots fed from an admin area. | PHP 8 · React islands · Tailwind CSS · Node.js (discord.js) |
+| ⚽ [**myduell.com**](https://www.myduell.com)<br><sub>🚧 In progress</sub> | A portal for football prediction leagues: scoring, rankings, knockout and league phases, Stripe payments and web push. | PHP 8 · Vite · Tailwind CSS · MariaDB · Playwright |
+| 🎲 [**lottique.com**](https://www.lottique.com)<br><sub>🚧 In progress</sub> | Lottery analytics for Lotto 6aus49 and Eurojackpot: automatic draw import, statistics and charts rendered on the server. | PHP 8 · Bootstrap 5 · MariaDB |
 
 ---
 
